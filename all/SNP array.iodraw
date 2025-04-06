@@ -1,1 +1,122 @@
-<mxfile host="www.iodraw.com" modified="2025-03-15T07:31:12.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" etag="jh_xWyZk-6Gw2elTR3j3" version="13.3.6"><diagram id="BKHGRbngS0tlpmX1Uo4H" name="第 1 页">7Vtbc6M2FP41fswOSIDhMXbSpG3aScY7u91HBWSjLkasJMd2f30lEMYgx7HjCw67zowHHV2MzuU7nw6kB4fTxR1DWfwXjXDSA1a06MGbHgC+B+W3EiwLgeuDQjBhJCpEViUYkf9wIbRL6YxEmGtZIRKUJoJkdWFI0xSHoiZDjNF5fdiYJlFNkKEJNgSjECWm9CuJRKylnutUHfeYTGL90wBCr+iZonK03gqPUUTnayJ424NDRqkorqaLIU6U8uqK+e2V3tWdMZyKXSY8jZeT2ZU9gsHTNZgxwJ3HL1f6Zl9QMtM71jcrlqUKGJ2lEVaLWD04mMdE4FGGQtU7lzaXslhME9my5eWYJMmQJpTJdkpTOWgQIR7n01U/F4x+X6lS6mBgbkPv7AUzgRdrIr2tO0ynWLClHKJ7PegXU7STeVrj8zWLOVoWrxnLtrQQaS+ZrJau9CgvtCr3UKvtGGrEkXQs3aRMxHRCU5TcVtJBXdHVmAdKM62+f7EQSx0laCZoXflSg2z5j5r/yS2b3/RyeeNmUWstdetVE3A6Y6G+/z+sexSObp9GD78/is9/Eqe/5FdlSCI2wWKbPopxSgdbDcpwggR5qQffJuvkU68ZQ8u1ARklqeBrKz8qQeUnDrRqfiLDuB4xjfHQ3zpeXhR3UPnJaisHuI77y3Vq+oAX4TuuvZ/vuN5pfWebTtfQXOLQ0IVSPgS2/LZGfz9ylY6RQCodMjrtqbThJdIEg2cmrybqylPI6KGpQvf0mWe5pYtBpBwz+qTMPAtjOscpJ7wcIO98NWZLMrH3SyY9AMeu+lslkbUeL/+oGTQVa/Lic5wkA/t1gwZmkgHWhiTjnCzH9FsFCrsGExVqHAIU23LH20DhHRsoDjIPCDqH44eZx78o85hQCRVIQonSQ7sPKqicExGTVB1FsKSz6vYmhKZdAjbQyFSBa9JnsAnZ4KlCxzLUe8HIhhdErEWcbH0rF5HX1STVODzcvF3D7TSU2+A5vtXkOY18V+xIz6ocY1/+1bfqZzwXWg0/OwEXBwZIBOqoWUID4pyGBAnpdQVOVCiBFxnDnHcLKTynbgO75OZvIsWpOBA0DATc7fZ5vFcdqZLc3XTYNl7Qsml8wzTlAUFpoaZ278eMlh1XPMfnaznABtmi6iyPFHdfr0c9MMBPnx96qsqWZSSdmCeYtdNI8XuvHEikekXdrCghk1Reh9IYWFpqoIxAQpRc644piaIi5WB5s+g5X0qhusYwua476Lk3ai2ZZYoN5UszKiTW0vStLPD+0pezY+kLnOxUsuEMan2XgoT8mBEVdlmMeB6RGaPPmB81BiOE/XG4MQZDHz+Pj6N0p1ELWNUGWgs2YJZtz8CY3s9iysTxJo0BR6cxh3m3mXDy2kogadnQgkGVe+hMcBLhDp8b3CbzC/wdowCcyjotH7nPVhFp+RCwL3cHTbw8B3e3zUdbIA/Qgvz5m474XGpUrIZwIT1APVqMOhW3dv+9cXsyFu+3G7dnK5X5O8YtvLCsZ3J54KhCmeVVUdR8WtCZeGnWx0Bgt8322q38ny1eVm98vMkSL6z0b56B7PxJnB1U8dKZ+GjyQBC0XRUCJkt/kF+WVJs60cvZqVkw4ElB1+ckVa/ptFonOIZV3HphALjAsIq/wSjwVEZxbEOn3QSt9sj5YUFj8mVbtoeOHXQfs6DfNgcGJse6ofP0iktaJfX94eGo8ToMdE0SFZyzTlni3F45Ynsp56PZBPa9eopw+u2mCAh/jhQBd+W1F1K/ab4H6eiHS6+9++b0DxzfP0N9CJokXb2yM8xf7e5avmueYdvPd7BvqH9I5YbU+/jq0RCOSCg+PMQ6ntPw7A2PZe2z5r3gFZ6BE9wBhTehCjqmwjfltHfoWzarf94oUKn6Fxh4+z8=</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram id="BKHGRbngS0tlpmX1Uo4H" name="第 1 页">
+    <mxGraphModel dx="604" dy="554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="638" y="60" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J0HacSEQSLIPtTKi47ys-1" target="Qfygu-1S39QA2ur2s4PV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="165" />
+              <mxPoint x="380" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J0HacSEQSLIPtTKi47ys-1" target="Qfygu-1S39QA2ur2s4PV-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="165" />
+              <mxPoint x="560" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0HacSEQSLIPtTKi47ys-1" value="4,531,211 SNPs data from &lt;br&gt;600&amp;nbsp;&lt;i&gt;S. suchowensis&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="370" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-1" target="Qfygu-1S39QA2ur2s4PV-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-1" target="Qfygu-1S39QA2ur2s4PV-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-1" value="3,235,172 SNPs within gene region" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="320" y="195" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-6" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="708" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-2" value="938 SNPs associated with gene expression" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="648" y="113" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-3" value="25 SNPs associated with PH and GD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="648" y="69" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;GWAS+eQTL mapping&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="638" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-11" value="40k liquid phased probes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="410" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qfygu-1S39QA2ur2s4PV-13" target="Qfygu-1S39QA2ur2s4PV-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-13" value="1,296,039 SNPs outside gene region" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="500" y="198" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-16" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-16" value="239 and 82 SNPs within start and stop codon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="170" y="198" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-18" target="Qfygu-1S39QA2ur2s4PV-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-18" value="245,062 SNPs&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="320" y="291" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-21" target="Qfygu-1S39QA2ur2s4PV-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-21" value="124,192 SNPs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="500" y="293" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-23" value="LD filter in&lt;br&gt;slide window" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="558" y="252" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-26" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-26" value="12,419 SNPs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="500" y="388" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-28" value="Down-sample" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="351" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-30" value="LD filter in&lt;br&gt;gene region" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="376" y="247" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qfygu-1S39QA2ur2s4PV-31" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="469" />
+              <mxPoint x="470" y="469" />
+              <mxPoint x="470" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-31" value="29,654 SNPs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="320" y="388" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-37" value="Coverage predict" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="464" y="479" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfygu-1S39QA2ur2s4PV-39" value="Down-select" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="349" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
