@@ -99,7 +99,7 @@
           <mxGeometry x="483" y="491" width="154" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-28" value="Down-sample" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="967" y="268" width="116" height="31" as="geometry" />
+          <mxGeometry x="565" y="438" width="116" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-30" value="LD filter in&lt;br style=&quot;font-size: 8px;&quot;&gt;gene region" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="377" y="288.5" width="103" height="50" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="1010" y="464" width="140" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-39" value="Down-select" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="972" y="403.5" width="106" height="31" as="geometry" />
+          <mxGeometry x="383" y="438" width="106" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
