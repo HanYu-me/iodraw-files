@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-18" value="245,062 SNPs&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="303" y="346" width="156" height="71" as="geometry" />
+          <mxGeometry x="301" y="354" width="156" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="Qfygu-1S39QA2ur2s4PV-21" target="Qfygu-1S39QA2ur2s4PV-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
