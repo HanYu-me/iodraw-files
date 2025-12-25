@@ -39,7 +39,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="742" y="765" />
+              <mxPoint x="742" y="769" />
+              <mxPoint x="554" y="769" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,8 +65,7 @@
         <mxCell id="Qfygu-1S39QA2ur2s4PV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="Qfygu-1S39QA2ur2s4PV-16" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="164" y="756" />
-              <mxPoint x="392" y="756" />
+              <mxPoint x="164" y="764" />
             </Array>
           </mxGeometry>
         </mxCell>
