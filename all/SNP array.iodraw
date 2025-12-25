@@ -91,8 +91,8 @@
         <mxCell id="Qfygu-1S39QA2ur2s4PV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="Qfygu-1S39QA2ur2s4PV-26" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="638" />
-              <mxPoint x="473" y="638" />
+              <mxPoint x="560" y="637" />
+              <mxPoint x="473" y="637" />
             </Array>
           </mxGeometry>
         </mxCell>
