@@ -85,7 +85,7 @@
           <mxGeometry x="489" y="354" width="142" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-23" value="LD filter in&lt;br style=&quot;font-size: 8px;&quot;&gt;slide window" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="944" y="191.5" width="109" height="50" as="geometry" />
+          <mxGeometry x="565" y="291" width="109" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="Qfygu-1S39QA2ur2s4PV-26" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -102,7 +102,7 @@
           <mxGeometry x="967" y="268" width="116" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-30" value="LD filter in&lt;br style=&quot;font-size: 8px;&quot;&gt;gene region" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="969" y="232" width="103" height="50" as="geometry" />
+          <mxGeometry x="377" y="288.5" width="103" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9xaVtrPir7XXjB13wbiA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qfygu-1S39QA2ur2s4PV-31" target="Qfygu-1S39QA2ur2s4PV-11">
           <mxGeometry relative="1" as="geometry">
