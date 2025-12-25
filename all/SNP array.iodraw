@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram id="BKHGRbngS0tlpmX1Uo4H" name="第 1 页">
-    <mxGraphModel dx="1200" dy="834" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="3170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="708" y="530" />
+              <mxPoint x="742" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           <mxGeometry x="649" y="40" width="188" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;GWAS+eQTL mapping&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="442" y="5" width="181" height="31" as="geometry" />
+          <mxGeometry x="648" y="-7" width="181" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-11" value="&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;40k liquid phased probes&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="391.5" y="728" width="162" height="74" as="geometry" />
@@ -64,9 +64,8 @@
         <mxCell id="Qfygu-1S39QA2ur2s4PV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="Qfygu-1S39QA2ur2s4PV-16" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="530" />
-              <mxPoint x="164" y="530" />
               <mxPoint x="164" y="756" />
+              <mxPoint x="392" y="756" />
             </Array>
           </mxGeometry>
         </mxCell>
