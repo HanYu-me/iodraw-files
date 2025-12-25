@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-13" value="1,296,039 SNPs outside gene region" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="500" y="193" width="146" height="76" as="geometry" />
+          <mxGeometry x="487" y="210" width="146" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="Qfygu-1S39QA2ur2s4PV-16" target="Qfygu-1S39QA2ur2s4PV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -93,7 +93,7 @@
           <mxGeometry x="500" y="388" width="154" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-28" value="Down-sample" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="547" y="346" width="116" height="31" as="geometry" />
+          <mxGeometry x="967" y="268" width="116" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-30" value="LD filter in&lt;br style=&quot;font-size: 8px;&quot;&gt;gene region" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="365" y="237" width="103" height="50" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry x="449" y="474" width="140" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Qfygu-1S39QA2ur2s4PV-39" value="Down-select" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="367" y="344" width="106" height="31" as="geometry" />
+          <mxGeometry x="972" y="403.5" width="106" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
